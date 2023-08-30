@@ -1,0 +1,65 @@
+{
+  "btnOrderAgain": {
+    "screenshot": null,
+    "source": "https://robotsparebinindustries.com/#/robot-order",
+    "strategy": "xpath",
+    "type": "browser",
+    "value": "//button[@id='order-another']"
+  },
+  "RobotPreview": {
+    "screenshot": null,
+    "source": "https://robotsparebinindustries.com/#/robot-order",
+    "strategy": "xpath",
+    "type": "browser",
+    "value": "//div[@id='robot-preview-image']"
+  },
+  "Address": {
+    "screenshot": ".images\\address-screenshot.png",
+    "source": "https://robotsparebinindustries.com/#/robot-order",
+    "strategy": "xpath",
+    "type": "browser",
+    "value": "//input[@id='address']"
+  },
+  "BtnOrder": {
+    "screenshot": null,
+    "source": "https://robotsparebinindustries.com/#/robot-order",
+    "strategy": "xpath",
+    "type": "browser",
+    "value": "//button[@id='order']"
+  },
+  "BtnPreview": {
+    "screenshot": null,
+    "source": "https://robotsparebinindustries.com/#/robot-order",
+    "strategy": "xpath",
+    "type": "browser",
+    "value": "//button[@id='preview']"
+  },
+  "DivReceipt": {
+    "screenshot": null,
+    "source": "https://robotsparebinindustries.com/#/robot-order",
+    "strategy": "xpath",
+    "type": "browser",
+    "value": "//div[@id='receipt']"
+  },
+  "ModalBtnOK": {
+    "screenshot": ".images\\modalbtnok-screenshot.png",
+    "source": "https://robotsparebinindustries.com/#/robot-order",
+    "strategy": "xpath",
+    "type": "browser",
+    "value": "//button[contains(.,'OK')]"
+  },
+  "SelectHead": {
+    "screenshot": ".images\\selecthead-screenshot.png",
+    "source": "https://robotsparebinindustries.com/#/robot-order",
+    "strategy": "xpath",
+    "type": "browser",
+    "value": "//select[@id='head']"
+  },
+  "TxtLegs": {
+    "screenshot": null,
+    "source": "https://robotsparebinindustries.com/#/robot-order",
+    "strategy": "xpath",
+    "type": "browser",
+    "value": "//input[@placeholder='Enter the part number for the legs']"
+  }
+}
